@@ -1,8 +1,8 @@
 class Dwum < Formula
   desc "Delete archives while unzipping with APFS zero-write hole punching"
   homepage "https://github.com/luanyufei/delete_when_unzip_mac"
-  url "https://github.com/luanyufei/delete_when_unzip_mac/archive/refs/tags/v0.2.0.tar.gz"
-  sha256 "3e38137239e87a33dc52575497c8bfe24f4f3dde2070c8a414c2d13293a9ea37"
+  url "https://github.com/luanyufei/delete_when_unzip_mac/archive/refs/tags/v1.2.1.tar.gz"
+  sha256 "e7ca4be62438ffea08d6c0664775d437a5d38825f7d18c5509fd98764b80ccc8"
   license "Apache-2.0"
 
   depends_on "libarchive"
